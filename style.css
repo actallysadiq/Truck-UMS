@@ -1,4 +1,11 @@
 .sidebar {
-    margin: solid border rgb(175, 175, 175) 1px;
+   display: flex;
+   
 
+
+}
+.navDiv{
+    border-bottom: 5px solid rgb(94, 94, 94) ;
+    background-color: rgb(70, 70, 70);
+    margin: 0px 30px 0px;
 }
