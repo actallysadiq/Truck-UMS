@@ -34,6 +34,7 @@
     border: 1px solid rgb(165, 165, 165);
     border-radius: 6px;
     text-align: center;
+ 
 
 }
 .btn1{ margin-top: 12px;
@@ -42,6 +43,7 @@
     border: 1px solid rgb(155, 155, 155);
     border-radius: 6px;
     background-color: rgb(59, 87, 119);
+    text-decoration: none;
 
 }
 .logB{
